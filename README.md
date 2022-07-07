@@ -13,6 +13,7 @@ Se você encontrar algum bug, defeito ou deseja recomendar uma melhoria, aqui vo
 
 ***Quando for adicionar um problema, por favor inclua:***
 
+* Clique no botão verde (New Issue) para criar um problema
 * **Um título descritivo** - use palavras chave para que outras pessoas possam encontrar seu defeito (e evitar bugs duplicados)
 * **Passo-a-passo** que causa um problema e que sempre acontece
 * **O que acontece** quando os passos acima são seguidos
